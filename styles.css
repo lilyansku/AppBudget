@@ -23,11 +23,11 @@ body {
 h1 {
   margin-bottom: 20px;
   font-size: 24px;
-  color: #4a90e2;
+  color: #e24a8c;
 }
 
 .balance-box {
-  background-color: #4a90e2;
+  background-color: #e24a8c;
   color: #fff;
   padding: 10px;
   border-radius: 5px;
@@ -66,7 +66,7 @@ input {
 
 button {
   padding: 10px;
-  background-color: #4a90e2;
+  background-color: #e24a8c;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -75,7 +75,7 @@ button {
 }
 
 button:hover {
-  background-color: #357abd;
+  background-color: #e24a8c;
 }
 
 #transaction-list {
