@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <button class="delete-btn">✖</button>
         `;
 
-        // Delete transaction when button is clicked
+
         listItem.querySelector(".delete-btn").addEventListener("click", () => {
             balance -= amount;
             updateBalance();

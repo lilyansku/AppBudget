@@ -102,3 +102,9 @@ button:hover {
 #transaction-list li.expense {
   border-left: 5px solid #e74c3c;
 }
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #e24a8c;
+  }
